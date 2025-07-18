@@ -67,6 +67,12 @@ class CustomIconSet extends HTMLElement {
           <g id="note">
             <image xlink:href="/hacsfiles/hass-icons-lifedomus/custom_icons/NOTE-200x200.svg" height="200" width="200"/>
           </g>
+          <g id="je-pars">
+           <image xlink:href="/hacsfiles/hass-icons-lifedomus/custom_icons/je pars.svg" height="200" width="200"/>
+          </g>
+          <g id="je-pars-en-course">
+           <image xlink:href="/hacsfiles/hass-icons-lifedomus/custom_icons/je pars en course.svg" height="200" width="200"/>
+          </g>
         </defs>
       </svg>
     `;
