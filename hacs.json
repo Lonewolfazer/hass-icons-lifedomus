@@ -1,0 +1,9 @@
+{
+  "name": "Lifedomus Custom Icons",
+  "content_in_root": false,
+  "filename": "custom-icons.js",
+  "domains": ["frontend"],
+  "country": "FR",
+  "homeassistant": "2023.0.0",
+  "persistent_directory": "custom_icons"
+}
